@@ -1,0 +1,12 @@
+id,usuario,organizacion,plan_organizacion,rol,ingreso,salida,activa
+025ff87c-44df-4a13-94f3-98ee4b5c1a95,Dr. Mauricio Vega,Clinica Salud Total,FREE_TIER,ADMIN,2026-04-23 04:00:00,,t
+3a9afa39-e261-434a-bb6b-c3c62475263c,Laura Martinez,Tech Solutions SAS,FREE_TIER,ADMIN,2026-04-11 00:00:00,,t
+6edd77d8-66e6-4127-a26b-524ace0d8d87,Andres Castro,Tech Solutions SAS,FREE_TIER,EMPLOYEE,2026-03-20 11:00:00,2026-10-14 15:00:00,f
+7d510557-ed4d-49b8-85dc-0a68cdb54088,Diego Salazar,Clinica Salud Total,FREE_TIER,EMPLOYEE,2026-04-07 15:30:00,,t
+7f45b096-d380-4b73-8446-ab8c82e26123,Camilo Torres,Clinica Salud Total,FREE_TIER,EMPLOYEE,2026-04-07 17:30:00,2026-10-15 15:00:00,f
+807c7e30-a598-40db-8cbf-d2ec8c53765f,Sofia Herrera,Tech Solutions SAS,FREE_TIER,EMPLOYEE,2026-04-15 12:00:00,,t
+98e6e5b7-e1cd-4be8-a7d8-3351265c28ea,Paula Ortiz,Clinica Salud Total,FREE_TIER,EMPLOYEE,2026-04-06 12:30:00,,t
+ab74fe57-66ee-4c57-8f4e-cb4f4041f5ee,Julian Perez,Tech Solutions SAS,FREE_TIER,EMPLOYEE,2026-04-24 21:00:00,,t
+ac9f21df-74f0-4af5-b361-8e1ca06d7a69,Carlos Rojas,Tech Solutions SAS,FREE_TIER,EMPLOYEE,2026-04-25 00:00:00,,t
+b1515fff-4296-4a50-b328-8e16ebe80fa9,Valentina Ruiz,Clinica Salud Total,FREE_TIER,EMPLOYEE,2026-04-17 13:00:00,,t
+fcbad167-f5a9-4a5f-adf1-65dab6eafff5,Ana Gomez,Tech Solutions SAS,FREE_TIER,EMPLOYEE,2026-03-18 16:00:00,,t

@@ -1,0 +1,66 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: saas_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-rootpassword}
+      POSTGRES_DB: saas_calendar
+      TZ: America/Bogota
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U root -d saas_calendar"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build: ./PA-SaaS2
+    container_name: saas_backend
+    restart: unless-stopped   # RNF disponibilidad: se reinicia solo si se cae
+    ports:
+      - "8080:8080"
+    environment:
+      # Spring Boot lee estas variables automaticamente (ver application.properties)
+      - TZ=America/Bogota
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/saas_calendar
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD:-rootpassword}
+      - JWT_SECRET=${JWT_SECRET}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_TIMEOUT_SECONDS=${GEMINI_TIMEOUT_SECONDS:-5}
+      # Correo (RF-08). Si MAIL_HOST queda vacio, los correos se escriben en el log del backend.
+      - MAIL_HOST=${MAIL_HOST:-}
+      - MAIL_PORT=${MAIL_PORT:-587}
+      - MAIL_USERNAME=${MAIL_USERNAME:-}
+      - MAIL_PASSWORD=${MAIL_PASSWORD:-}
+      - MAIL_FROM=${MAIL_FROM:-no-reply@syncflow.local}
+      - CORS_ALLOWED_ORIGINS=${CORS_ALLOWED_ORIGINS:-http://localhost,http://localhost:3000,http://localhost:5173,http://localhost:5174}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:8080/actuator/health | grep -q UP || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 60s
+
+  frontend:
+    build:
+      context: ./frontend-saas
+      args:
+        VITE_API_URL: ${VITE_API_URL:-http://localhost:8080/api}
+    container_name: saas_frontend
+    restart: unless-stopped
+    ports:
+      - "80:80" # El frontend estara disponible en http://localhost
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

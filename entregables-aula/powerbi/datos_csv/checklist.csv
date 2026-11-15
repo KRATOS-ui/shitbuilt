@@ -1,0 +1,159 @@
+id,event_id,evento,tarea,completada,completada_en
+014878a2-07ca-4a63-b815-62579318536d,cf53de0f-950a-419d-9429-2eb0519a8c8b,Cumpleanos,Revisar materiales,t,2026-09-08 07:00:00
+01504585-279e-4933-9b74-c718a2aa216a,18bee074-5ec0-4260-bf98-80a6e73c49ea,Reunion de planeacion semanal,Compartir acta,f,
+02f08407-6dcc-4ec0-a94d-3a2656c031f9,60f823f6-7c7f-49ee-94ac-e2e410471a11,Inventario de insumos,Compartir acta,t,2026-08-03 05:30:00
+05ed4d8b-ecd1-4138-bd2c-2228fc31908b,e58e7e8e-e09b-4a16-bc17-c7d6114a6df1,Turno consulta externa,Tomar notas,f,
+05f4eac0-743c-4867-95e0-49af79557d0d,66555112-4b65-4603-a466-091b3f47c229,Pago de servicios,Compartir acta,t,2026-10-14 07:00:00
+07758dc8-df22-4435-9d72-9e1ebe3b4bbf,56627387-838a-4d33-98bc-7fa9ccb43d58,Despliegue a produccion,Enviar convocatoria,t,2026-11-01 13:00:00
+07fe2cc6-edbb-4832-be41-c75a47694dca,1206bec0-3261-44ee-8382-7e7f7bc16d88,Cumpleanos,Confirmar asistentes,t,2026-08-17 08:30:00
+08745313-0989-4875-b3bd-c9755dc7705b,16c41c79-8dc9-4e54-b52a-b72a4969755d,Cumpleanos,Compartir acta,f,
+09023165-1340-4371-bd27-0f2fb36c78ad,71f570f4-77da-4ff7-bdaa-49680aed1e39,Estudio para parcial,Confirmar asistentes,t,2026-09-08 10:00:00
+09242392-7442-43f6-bc8e-b251b0ec533e,8593848b-7e7b-457b-90df-7fb501d624df,Cumpleanos,Hacer seguimiento,t,2026-10-29 09:00:00
+0be2291c-e050-485b-9826-c78cb124b974,7a5f6d24-0bfa-454d-ac7a-56be91b0ea5c,Cita medica,Reservar sala,t,2026-09-06 08:00:00
+0c1079a5-f720-4f50-898d-04ba1bd9aae3,81ba7b52-f881-4255-a4c5-3d9fc48585d8,Gimnasio,Revisar materiales,t,2026-08-07 08:00:00
+1027ea60-2c19-45f7-9ca4-d4ea59d689d4,797be450-b2ef-46e3-ae90-0b5a1cee9db7,Comite de calidad,Preparar agenda,t,2026-11-14 15:00:00
+1258886c-e74b-4eef-ba9b-c77882f3e372,857f2fac-b657-4b6a-84b7-27d7a1a74567,Jornada de vacunacion,Compartir acta,f,
+1447cce5-2fc6-425c-849a-c7e9bd5bf033,e6f5e5a8-64cd-48d0-ac34-1d5859e2ec52,Ronda de pacientes,Hacer seguimiento,f,
+15938452-4f37-4dfb-b49c-b0612bb8159d,46e3897a-83d3-45a6-b506-e7d2ca6e3fc8,Retrospectiva,Tomar notas,t,2026-10-19 03:00:00
+16e13413-8e4e-45ae-a2c6-3adf69db8679,e2b770ee-1241-450c-8264-3855ecbf3120,Reunion con cliente,Hacer seguimiento,t,2026-09-07 14:00:00
+17d6af8f-f423-48be-8141-82233b38c237,e50588a5-8450-44a1-a1f6-6c3ac9108f89,Reunion de planeacion semanal,Hacer seguimiento,t,2026-08-16 09:30:00
+19704788-4929-42d7-a1c5-4fba75cca9ee,66555112-4b65-4603-a466-091b3f47c229,Pago de servicios,Compartir acta,t,2026-10-14 07:00:00
+1a3296d7-c930-4f85-af45-6beccd31370e,cbb079b2-8cfd-405e-bf7f-5ad6eb0c1184,Despliegue a produccion,Confirmar asistentes,t,2026-09-13 02:00:00
+1a5a4169-8345-47dc-b70c-bdefbc66ab22,71f570f4-77da-4ff7-bdaa-49680aed1e39,Estudio para parcial,Compartir acta,t,2026-09-09 10:00:00
+1ace14bb-3a4a-4d41-b195-e9b86c58a2f3,b2353301-dbea-43f8-8bac-2dfcbdbae3c0,Inventario de insumos,Reservar sala,t,2026-09-17 15:30:00
+1ea3fcfb-aee1-47e0-8085-a3208d632e14,46c569ce-17bc-412f-ab86-bd7d93b69dc2,Entrevista candidato,Tomar notas,t,2026-08-24 08:00:00
+212751ef-dd9a-4c95-8586-042a0e1ee365,c7215ae5-e3b0-4b9f-9566-682f46a02dfc,Ronda de pacientes,Confirmar asistentes,t,2026-11-15 15:00:00
+22731398-a911-4537-b492-fab72b1e0c01,40b2174c-0b57-48ab-964c-fc1c7b14db69,Cumpleanos,Tomar notas,t,2026-11-07 03:30:00
+248a2b2e-a296-4e0c-8c4f-35b2b59f9aed,9dd666df-b21e-45ed-8a3b-1130a32f244f,Entrega de turno,Tomar notas,t,2026-10-15 03:00:00
+24b8094f-8437-4d60-bf8e-3656fd3cdfda,06a4ebfb-01b7-4056-9cc6-0b5c16a3d845,Comite de calidad,Preparar agenda,t,2026-09-08 05:00:00
+2683dad7-5385-498e-8bf6-27ae3797debf,9eb1262f-c478-4c22-bfc9-dec4a36743b1,Jornada de vacunacion,Tomar notas,t,2026-09-10 13:00:00
+28e94a2f-6db4-4ffa-87df-9d6e7f2f235c,5fec2ecf-6e31-42cb-8f50-d85c348db1a6,Reunion familiar,Hacer seguimiento,f,
+2da41fd1-59fa-4405-a889-f28956533d0b,f293f004-3d83-453d-82ff-7b163ecdc7de,Reunion de jefes de area,Confirmar asistentes,t,2026-10-19 10:00:00
+2f4d8725-2178-4974-b84c-1e79e786b33e,d2358118-4029-46b9-a6d7-575d99e61a18,Capacitacion RCP,Revisar materiales,t,2026-11-04 09:00:00
+2f86aa5c-d0b8-486d-933c-874bea640b81,16c41c79-8dc9-4e54-b52a-b72a4969755d,Cumpleanos,Reservar sala,t,2026-11-14 07:00:00
+30e2c97e-877b-47b7-a422-4ebb4aa15286,60f823f6-7c7f-49ee-94ac-e2e410471a11,Inventario de insumos,Tomar notas,f,
+3426cb92-3029-4644-934d-a06cbede9921,81ba7b52-f881-4255-a4c5-3d9fc48585d8,Gimnasio,Revisar materiales,f,
+352991ba-6504-4bea-8957-fa1ba5008b67,9cc6fea0-1a06-403f-ab0c-044dd16d3411,Despliegue a produccion,Reservar sala,f,
+37f5f918-e7bc-438b-94af-e0eb47eba10e,fefa65d9-6947-41ae-a898-b525154385ba,Gimnasio,Compartir acta,t,2026-11-16 15:00:00
+39586939-2362-44dc-b205-e71e77aacd38,df483036-7b64-45b6-b44a-7f1816c5b650,Entrega de turno,Enviar convocatoria,t,2026-08-27 08:30:00
+39d2badb-f2fd-4211-914d-1d86e9fabac9,c7215ae5-e3b0-4b9f-9566-682f46a02dfc,Ronda de pacientes,Reservar sala,f,
+3a2337aa-d37d-4d77-90d8-fcc5a2f61954,d2358118-4029-46b9-a6d7-575d99e61a18,Capacitacion RCP,Compartir acta,t,2026-11-04 09:00:00
+3ab8c535-6b1a-45c7-9fc9-f54d1bac05b5,0dfebe14-cb10-460b-8b71-015bf9c366f7,Entrevista candidato,Enviar convocatoria,f,
+3c37bb01-18b0-410e-8eab-f94903f33851,968e485e-46db-43ab-9044-df5c81b2499e,Daily de desarrollo,Preparar agenda,t,2026-08-27 08:00:00
+3e4245e7-4b74-48d3-ac53-b579464827c7,b95fa590-9a57-4b8a-8416-e272d464b504,Pago de servicios,Revisar materiales,t,2026-11-04 03:00:00
+42fa9801-0412-49fc-a99c-c1f913dcd331,16c41c79-8dc9-4e54-b52a-b72a4969755d,Cumpleanos,Enviar convocatoria,f,
+463e75f7-306a-48d1-86ce-fd5c8575e380,e0878bec-ebb7-4950-a426-b8101d8eb904,Clase de ingles,Preparar agenda,t,2026-09-15 11:00:00
+49a4c222-6a6d-4402-90a3-727dc7be5613,e50588a5-8450-44a1-a1f6-6c3ac9108f89,Reunion de planeacion semanal,Hacer seguimiento,t,2026-08-15 09:30:00
+4b491c63-bf3f-49bf-86ea-2fdf279e445a,e4e7dc9a-7487-43d0-9e60-7c394427aa3d,Turno consulta externa,Revisar materiales,t,2026-10-23 11:00:00
+4d19b831-48c3-4714-bf78-fbf82f7501c6,81ba7b52-f881-4255-a4c5-3d9fc48585d8,Gimnasio,Revisar materiales,t,2026-08-05 08:00:00
+4e5ac9d0-fcc3-4569-b264-b709c94e2077,df483036-7b64-45b6-b44a-7f1816c5b650,Entrega de turno,Hacer seguimiento,t,2026-08-26 08:30:00
+50873455-423a-4fc4-b826-d6cce4ed676d,9eb1262f-c478-4c22-bfc9-dec4a36743b1,Jornada de vacunacion,Preparar agenda,t,2026-09-10 13:00:00
+51478b93-be3b-496e-8129-017d853c2409,50931ba9-f55e-4054-8389-73ec6afa2b31,Daily de desarrollo,Preparar agenda,t,2026-10-04 04:00:00
+54eb1e9f-8fc3-4287-819b-0c586ebea6fb,d421f543-3f3d-46be-84d9-ab128e3b5710,Revision de sprint,Compartir acta,t,2026-11-06 04:30:00
+561bbe5c-7f2d-4649-918f-77f7221b575e,99a907c5-a9e0-4729-9305-f6786d201805,Cita medica,Compartir acta,t,2026-09-25 07:30:00
+565a0dcf-5f2f-41f3-8771-989f7d2b8335,1398a28e-7c62-4782-a239-927b50306a7c,Clase de ingles,Revisar materiales,t,2026-10-02 06:00:00
+5c7930d5-d238-4a32-9b0a-c87eaf943ccb,b2353301-dbea-43f8-8bac-2dfcbdbae3c0,Inventario de insumos,Reservar sala,t,2026-09-19 15:30:00
+5c84dbcf-56fd-443b-9bdb-e6fc99340c1e,e9d3087a-9779-4efc-9351-099ac1cff22d,Reunion familiar,Revisar materiales,t,2026-10-20 10:30:00
+60901d0a-e076-4008-a3fb-b10a2e17ffc7,1398a28e-7c62-4782-a239-927b50306a7c,Clase de ingles,Confirmar asistentes,f,
+629f7a07-56bc-4737-8938-17689f8af601,16c41c79-8dc9-4e54-b52a-b72a4969755d,Cumpleanos,Enviar convocatoria,t,2026-11-14 07:00:00
+635d846d-b87f-4ab9-bc2c-c533dfd7dfe8,0dfebe14-cb10-460b-8b71-015bf9c366f7,Entrevista candidato,Preparar agenda,f,
+64e572f1-a85f-4ab1-ba69-ac2c9aab72c2,797be450-b2ef-46e3-ae90-0b5a1cee9db7,Comite de calidad,Hacer seguimiento,f,
+6b534e4e-a413-45ab-8586-cf1c418f12e8,fefa65d9-6947-41ae-a898-b525154385ba,Gimnasio,Revisar materiales,f,
+6bd8e83a-0374-464b-b876-1b7c8697e1b6,56627387-838a-4d33-98bc-7fa9ccb43d58,Despliegue a produccion,Tomar notas,t,2026-11-03 13:00:00
+6c3f40a1-170d-44b1-9103-2863de7c8fde,178c98e4-8af1-454b-a355-a1075d396109,Retrospectiva,Tomar notas,t,2026-09-14 10:00:00
+6e9e5c8b-bab4-4925-a092-c21b12a2923b,797be450-b2ef-46e3-ae90-0b5a1cee9db7,Comite de calidad,Tomar notas,t,2026-11-16 15:00:00
+6f938ccf-2e3c-41c5-8b12-868a60fb37cf,20188fea-e1d6-4891-8a03-aa7de87c7241,Cumpleanos,Confirmar asistentes,f,
+70bdce0d-6b2e-4289-a367-92a3ff8fc2ed,f293f004-3d83-453d-82ff-7b163ecdc7de,Reunion de jefes de area,Preparar agenda,t,2026-10-19 10:00:00
+725d6c6a-a96a-4111-9d63-a36f2eb73a2c,40b2174c-0b57-48ab-964c-fc1c7b14db69,Cumpleanos,Preparar agenda,f,
+75808b85-bece-444c-8445-cd9e558c7f19,20188fea-e1d6-4891-8a03-aa7de87c7241,Cumpleanos,Reservar sala,f,
+7645642c-bd88-4ea5-b69e-75a3450da734,89430bf0-fc2f-472f-ae42-9e47a3bb2b8f,Entrevista candidato,Revisar materiales,f,
+77d74e8f-d35d-46a0-aab2-97f6f1ef29e8,1206bec0-3261-44ee-8382-7e7f7bc16d88,Cumpleanos,Reservar sala,t,2026-08-17 08:30:00
+792cf498-a957-48ef-9c68-ad68bfbf9daf,8593848b-7e7b-457b-90df-7fb501d624df,Cumpleanos,Tomar notas,t,2026-10-28 09:00:00
+79e39404-7e16-4020-8839-b9c4fdc7999c,20188fea-e1d6-4891-8a03-aa7de87c7241,Cumpleanos,Confirmar asistentes,t,2026-11-14 15:00:00
+7ba1bc8b-e198-4912-a0d9-e44b98781c19,82205261-ef67-4b8a-865d-beb5167b570b,Cita medica,Tomar notas,t,2026-10-31 10:30:00
+7ebb1ce6-ba7b-47b7-8158-47f4e3e9d879,40b2174c-0b57-48ab-964c-fc1c7b14db69,Cumpleanos,Reservar sala,f,
+827761ff-da61-485e-9739-50869dcd0c96,9b4a8d0a-515c-4a27-98f0-080057f36ca6,Retrospectiva,Compartir acta,f,
+85131eaa-6ca3-4fc0-b28e-44f579845e59,99a907c5-a9e0-4729-9305-f6786d201805,Cita medica,Compartir acta,t,2026-09-23 07:30:00
+85616709-7a00-48b2-8270-013565f71bd5,9b4ab5aa-8f1b-4ae4-b2ab-7967ef642b5f,Capacitacion en seguridad,Hacer seguimiento,f,
+85771fbd-9e25-4925-bd19-eba52510540f,06a4ebfb-01b7-4056-9cc6-0b5c16a3d845,Comite de calidad,Reservar sala,f,
+86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,e50588a5-8450-44a1-a1f6-6c3ac9108f89,Reunion de planeacion semanal,Reservar sala,t,2026-08-14 09:30:00
+87077277-9ced-4694-8104-a2ff208e7c04,18da990c-9704-464a-b54b-82d3b6e57418,Reunion con cliente,Reservar sala,t,2026-10-17 10:30:00
+880e6ac4-7032-431d-a1dd-c6cf59938b9e,b2353301-dbea-43f8-8bac-2dfcbdbae3c0,Inventario de insumos,Enviar convocatoria,f,
+88467b2b-ca32-4710-b05d-64b6e647008b,d2358118-4029-46b9-a6d7-575d99e61a18,Capacitacion RCP,Hacer seguimiento,t,2026-11-06 09:00:00
+895bf10a-9cce-402e-ad04-0b1f1a6688ba,0dfebe14-cb10-460b-8b71-015bf9c366f7,Entrevista candidato,Preparar agenda,f,
+89aace3d-0c46-4a57-91b1-2fad020f76c3,8593848b-7e7b-457b-90df-7fb501d624df,Cumpleanos,Tomar notas,t,2026-10-29 09:00:00
+8eb85157-ce7f-4fe7-94cb-43823d0b3d27,8593848b-7e7b-457b-90df-7fb501d624df,Cumpleanos,Revisar materiales,t,2026-10-30 09:00:00
+9531bb08-92db-4cda-bcaf-0683b39b1ac0,b95fa590-9a57-4b8a-8416-e272d464b504,Pago de servicios,Compartir acta,t,2026-11-04 03:00:00
+957d388d-d00a-43b3-a2a5-efaa1eb4d0b5,e58e7e8e-e09b-4a16-bc17-c7d6114a6df1,Turno consulta externa,Enviar convocatoria,f,
+9656c697-71af-4650-8148-4051a0170756,18da990c-9704-464a-b54b-82d3b6e57418,Reunion con cliente,Enviar convocatoria,t,2026-10-16 10:30:00
+98d023bc-7158-43d9-af86-52fff2bdfe6b,0a55659a-d60c-4b8f-aa50-f156ba7b7f6f,Clase de ingles,Hacer seguimiento,f,
+9ad57e37-301b-4162-ac47-6d99552cc227,1398a28e-7c62-4782-a239-927b50306a7c,Clase de ingles,Compartir acta,t,2026-10-02 06:00:00
+9bc7d0e7-71be-4d88-8531-b3ae40868dcb,18da990c-9704-464a-b54b-82d3b6e57418,Reunion con cliente,Reservar sala,t,2026-10-17 10:30:00
+9d40c7ce-f4f0-4584-94c0-9d4baa32659b,56627387-838a-4d33-98bc-7fa9ccb43d58,Despliegue a produccion,Compartir acta,t,2026-11-02 13:00:00
+9f93026b-ef59-47ae-8ef4-8f049706dc79,e0878bec-ebb7-4950-a426-b8101d8eb904,Clase de ingles,Enviar convocatoria,t,2026-09-14 11:00:00
+9f93693f-6f00-47c4-b4fd-02f6850567c2,ce918208-8520-4f0c-a606-799cced8c284,Reunion de planeacion semanal,Compartir acta,t,2026-10-15 05:00:00
+a23a3dda-4159-4ecc-a149-5c93b2119de3,e0878bec-ebb7-4950-a426-b8101d8eb904,Clase de ingles,Enviar convocatoria,t,2026-09-16 11:00:00
+a24cc76b-8e09-4843-8106-acfbf00c9c42,bef36838-8a65-4a6e-9597-fea4aed9e0e7,Ronda de pacientes,Compartir acta,t,2026-08-03 14:00:00
+a3499a84-f5c6-4ea9-abcd-6d62ba5e8809,861498b3-9ad6-4061-9325-eca6bddc0d5f,Entrevista candidato,Enviar convocatoria,t,2026-08-23 10:30:00
+a49904a0-0868-4aac-b1eb-c8f8655ad021,a00dc09f-bfec-4dab-bb24-87973bbb50db,Turno consulta externa,Revisar materiales,f,
+a5b32e98-ffbe-4ad5-a084-ba9c0f6a7678,e4e7dc9a-7487-43d0-9e60-7c394427aa3d,Turno consulta externa,Enviar convocatoria,t,2026-10-23 11:00:00
+a5ce0290-a2ef-4ff5-94b5-6a0cc35c5193,bef36838-8a65-4a6e-9597-fea4aed9e0e7,Ronda de pacientes,Preparar agenda,t,2026-08-03 14:00:00
+a72514e4-3ec4-4ea8-b6cd-152491841049,cf53de0f-950a-419d-9429-2eb0519a8c8b,Cumpleanos,Enviar convocatoria,t,2026-09-06 07:00:00
+a9756747-19bc-4a98-9730-68929d62cd2f,1398a28e-7c62-4782-a239-927b50306a7c,Clase de ingles,Enviar convocatoria,t,2026-10-04 06:00:00
+aa2a6ec5-e2ca-446b-85aa-580ccd72760b,d2358118-4029-46b9-a6d7-575d99e61a18,Capacitacion RCP,Tomar notas,t,2026-11-04 09:00:00
+ae6a4e5a-ad9e-4de9-926c-3fd11400d496,9dd666df-b21e-45ed-8a3b-1130a32f244f,Entrega de turno,Tomar notas,f,
+b135c12f-7792-4540-b1e2-05653942af94,e4e7dc9a-7487-43d0-9e60-7c394427aa3d,Turno consulta externa,Preparar agenda,t,2026-10-22 11:00:00
+b613d041-3199-4695-bdc0-75f8c227da48,e6b3e082-f5bf-49c1-99e0-2f50146b1031,Cumpleanos,Tomar notas,t,2026-10-02 07:30:00
+b67eed92-4178-461d-9195-8143a3ea5ba2,cbb079b2-8cfd-405e-bf7f-5ad6eb0c1184,Despliegue a produccion,Confirmar asistentes,t,2026-09-14 02:00:00
+b8b90bc8-48b3-40e1-b14b-6e18c43943e1,cc81c1d7-9683-46c8-8312-3efb8bb22752,Cumpleanos,Enviar convocatoria,t,2026-07-31 03:00:00
+babd2756-0f7d-4bf9-82db-68741c567a9b,b2353301-dbea-43f8-8bac-2dfcbdbae3c0,Inventario de insumos,Hacer seguimiento,f,
+bb11cdb1-8708-48f3-83cc-22ae2c800adf,e4e7dc9a-7487-43d0-9e60-7c394427aa3d,Turno consulta externa,Revisar materiales,t,2026-10-22 11:00:00
+bb464d24-3d20-4f68-b6d5-3690fa7ab5e7,e6f5e5a8-64cd-48d0-ac34-1d5859e2ec52,Ronda de pacientes,Compartir acta,t,2026-09-25 04:30:00
+bb6de8f8-d79d-41c5-8325-ae95460cee06,9b4a8d0a-515c-4a27-98f0-080057f36ca6,Retrospectiva,Tomar notas,t,2026-08-04 07:00:00
+bb8a1881-2453-4e4c-95e5-bc121adc2207,8bf6237b-5f6f-4b2c-8c8d-a302158e9c4b,Daily de desarrollo,Tomar notas,f,
+bc010117-5baf-403c-8dcd-35d222dab971,1206bec0-3261-44ee-8382-7e7f7bc16d88,Cumpleanos,Preparar agenda,f,
+bc28519e-989d-4eb3-9677-e5d7285b7dc0,82205261-ef67-4b8a-865d-beb5167b570b,Cita medica,Preparar agenda,t,2026-11-01 10:30:00
+c1611e43-f35d-4b9d-9ca5-a6b25ff31b4c,9eb1262f-c478-4c22-bfc9-dec4a36743b1,Jornada de vacunacion,Reservar sala,t,2026-09-13 13:00:00
+c48b0bf5-92a6-4093-98c6-3eecbd0b6d4a,e6f5e5a8-64cd-48d0-ac34-1d5859e2ec52,Ronda de pacientes,Hacer seguimiento,t,2026-09-27 04:30:00
+c5ccfdec-a205-410f-9087-37b0eab64502,e4fdb913-622e-4fa5-a116-42feb1f2bb07,Gimnasio,Confirmar asistentes,f,
+c6c8cf16-4bad-49bd-bd9f-b37d206009c3,0ab75179-74be-4188-8f95-956566cb6afd,Turno consulta externa,Tomar notas,f,
+c6cf381a-3d43-481c-a08f-02b16254c3f0,95ea47a7-51a2-48ee-aaa8-b0b5c494a9bc,Daily de desarrollo,Tomar notas,t,2026-10-16 05:00:00
+c75f9b37-1515-4ce7-854e-84dd1a1064cd,e9d3087a-9779-4efc-9351-099ac1cff22d,Reunion familiar,Enviar convocatoria,f,
+c7cac69f-f66f-494c-9d31-146b723d823f,1206bec0-3261-44ee-8382-7e7f7bc16d88,Cumpleanos,Reservar sala,t,2026-08-14 08:30:00
+cafc6847-001d-4f43-b57c-97ab447b0c70,9cfba2aa-4184-4b1d-97cf-0288b7bcd258,Reunion familiar,Compartir acta,t,2026-08-16 05:00:00
+cb5342b5-1ada-41b0-a867-bc4e111aadf8,0dfebe14-cb10-460b-8b71-015bf9c366f7,Entrevista candidato,Enviar convocatoria,f,
+cca6151a-16fd-445a-99e8-f9e87ae03f3d,b1cba655-431d-456b-8990-63a1c18c5bd2,Cumpleanos,Revisar materiales,t,2026-08-09 04:30:00
+cff43c78-dcbd-4c31-9a2f-6adac6ae807d,f293f004-3d83-453d-82ff-7b163ecdc7de,Reunion de jefes de area,Hacer seguimiento,t,2026-10-22 10:00:00
+d07ce881-0062-4542-a380-ff921d88e652,215ac634-c0bc-4269-bf71-ca1713065403,Reunion con cliente,Tomar notas,t,2026-10-03 09:30:00
+d5435561-b634-46a1-8de1-a25307733e1c,857f2fac-b657-4b6a-84b7-27d7a1a74567,Jornada de vacunacion,Confirmar asistentes,f,
+d7e5d67f-ac79-43fe-92af-fdf5437bb90d,40b2174c-0b57-48ab-964c-fc1c7b14db69,Cumpleanos,Revisar materiales,f,
+d96e837e-603b-4d1f-a583-bfbb16e45ff8,e6f5e5a8-64cd-48d0-ac34-1d5859e2ec52,Ronda de pacientes,Compartir acta,t,2026-09-26 04:30:00
+dab838fc-9bd5-49d8-bc5e-25f430b24f7a,e6b3e082-f5bf-49c1-99e0-2f50146b1031,Cumpleanos,Revisar materiales,t,2026-10-02 07:30:00
+dad024c4-46ca-4a78-a73c-998ecfa08547,06a4ebfb-01b7-4056-9cc6-0b5c16a3d845,Comite de calidad,Reservar sala,t,2026-09-06 05:00:00
+db473fab-02ce-48ad-ab3c-179bf381269b,cbb079b2-8cfd-405e-bf7f-5ad6eb0c1184,Despliegue a produccion,Revisar materiales,t,2026-09-13 02:00:00
+db5a843a-c5c2-4871-b520-f1fbafb24df0,99a907c5-a9e0-4729-9305-f6786d201805,Cita medica,Reservar sala,t,2026-09-25 07:30:00
+dce937e4-692e-4865-909f-e2930ddf3e1d,9b4a8d0a-515c-4a27-98f0-080057f36ca6,Retrospectiva,Enviar convocatoria,t,2026-08-04 07:00:00
+e295592a-5698-404a-bb96-39eee1a33974,cc81c1d7-9683-46c8-8312-3efb8bb22752,Cumpleanos,Preparar agenda,t,2026-07-31 03:00:00
+e3bef5b8-fb6d-43c0-b0c1-e5720753f9bc,82205261-ef67-4b8a-865d-beb5167b570b,Cita medica,Tomar notas,t,2026-10-29 10:30:00
+e3f89923-18c2-4f25-80e1-64e8e5c14a6f,1f850e07-65c5-4560-b7a4-13371deeb9f3,Despliegue a produccion,Enviar convocatoria,f,
+e4816765-5312-410c-9c24-5d450822fc47,fefa65d9-6947-41ae-a898-b525154385ba,Gimnasio,Reservar sala,f,
+e551700e-a5ef-45d0-a516-f920f8930baf,9b4ab5aa-8f1b-4ae4-b2ab-7967ef642b5f,Capacitacion en seguridad,Reservar sala,t,2026-11-15 15:00:00
+e73fbf13-2f0f-42c7-891c-f66979f50744,edb35633-8f0b-46c9-9846-012664faaad9,Pago de servicios,Preparar agenda,t,2026-09-21 08:00:00
+e939518f-f3a0-433a-9caf-1b98775ac94a,69021c3a-05e0-4cfe-9c96-9c8dcabe9d9a,Inventario de insumos,Enviar convocatoria,t,2026-08-02 10:00:00
+eae75808-007e-4c7d-bf2d-ded79b3dbfad,861498b3-9ad6-4061-9325-eca6bddc0d5f,Entrevista candidato,Confirmar asistentes,t,2026-08-23 10:30:00
+eb0c398a-ad8c-4479-bd5e-0d6963948a5e,99ace953-ec0c-4648-81bb-9bed9fb4d171,Comite de calidad,Preparar agenda,f,
+eb0ff007-31c7-418d-8ab2-b40113849d7a,5dac4e95-a140-435f-bc46-bfff39f755bd,Capacitacion RCP,Preparar agenda,t,2026-11-14 15:00:00
+f039470d-ecd1-4ff6-8974-e122b3e87cfc,99a907c5-a9e0-4729-9305-f6786d201805,Cita medica,Revisar materiales,f,
+f1f67a20-daa8-47b7-9d3c-9ce7e8d8235c,56627387-838a-4d33-98bc-7fa9ccb43d58,Despliegue a produccion,Confirmar asistentes,t,2026-11-03 13:00:00
+f2e36355-7f60-49fa-9f12-4a78e9f91484,ce918208-8520-4f0c-a606-799cced8c284,Reunion de planeacion semanal,Hacer seguimiento,t,2026-10-13 05:00:00
+f32efa03-ed1b-45c8-84ff-c64e93043fca,18bee074-5ec0-4260-bf98-80a6e73c49ea,Reunion de planeacion semanal,Hacer seguimiento,f,
+f34a2d9d-394a-47e0-987d-81509a53610b,82205261-ef67-4b8a-865d-beb5167b570b,Cita medica,Enviar convocatoria,t,2026-11-01 10:30:00
+f39623eb-b16b-4916-9d0b-5fc022e08a35,9dd666df-b21e-45ed-8a3b-1130a32f244f,Entrega de turno,Revisar materiales,t,2026-10-13 03:00:00
+f3e25f12-4f18-43a7-8467-db94d094b5e2,861498b3-9ad6-4061-9325-eca6bddc0d5f,Entrevista candidato,Reservar sala,t,2026-08-23 10:30:00
+f7f61455-77cd-4503-916e-c3977fb34727,b95fa590-9a57-4b8a-8416-e272d464b504,Pago de servicios,Revisar materiales,t,2026-11-06 03:00:00
+f85e9bea-0eec-4bf9-b875-a42b3e289120,50931ba9-f55e-4054-8389-73ec6afa2b31,Daily de desarrollo,Confirmar asistentes,t,2026-10-05 04:00:00
+f9fa514e-f6cb-4c73-9ed3-e91e977e218d,e0878bec-ebb7-4950-a426-b8101d8eb904,Clase de ingles,Reservar sala,t,2026-09-15 11:00:00
+fc15b536-7cf8-4d4a-9aab-bcebd728f6f4,9b4ab5aa-8f1b-4ae4-b2ab-7967ef642b5f,Capacitacion en seguridad,Revisar materiales,f,
+fc18e44b-54ab-48b2-a1be-953e8c13e87f,e4fdb913-622e-4fa5-a116-42feb1f2bb07,Gimnasio,Preparar agenda,t,2026-08-20 09:30:00
+fc545e74-22ca-46ea-9ece-41444538ba15,df483036-7b64-45b6-b44a-7f1816c5b650,Entrega de turno,Hacer seguimiento,f,
+fcf2c86d-9394-4318-8fa9-60d1af925385,968e485e-46db-43ab-9044-df5c81b2499e,Daily de desarrollo,Compartir acta,t,2026-08-27 08:00:00
