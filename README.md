@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ricardorogramador/SyncFlow">
+  <a href="https://github.com/KRATOS-ui/shitbuilt">
     <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?logo=github&logoColor=white" alt="Repositorio GitHub">
   </a>
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" alt="React">
@@ -98,7 +98,7 @@ docker compose version
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Ricardorogramador/SyncFlow.git
+git clone https://github.com/KRATOS-ui/shitbuilt.git
 cd SyncFlow
 ```
 

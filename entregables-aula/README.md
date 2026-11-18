@@ -43,3 +43,7 @@ Horas Programadas = SUM(eventos[duracion_horas])
 2. Ejecuta en orden en pgAdmin/DBeaver: `1_esquema.sql` (solo si la base esta vacia), `2_datos_ejemplo.sql` (opcional, borra los datos existentes), `3_vistas_powerbi.sql`.
 3. En Power BI: Obtener datos > Base de datos PostgreSQL > `localhost:5432` / `saas_calendar`; carga las vistas `vw_*`.
    Las columnas se llaman igual que en el Excel.
+
+## Tablero final entregado
+- `powerbi/SyncFlow_Tablero_final.pbix`: archivo de Power BI (modelo con 5 tablas y 4 relaciones, 4 medidas DAX, 3 tarjetas y 4 gráficos).
+- `powerbi/SyncFlow_Tablero_final.pdf`: exportación del tablero.
