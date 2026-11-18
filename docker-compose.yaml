@@ -32,6 +32,7 @@ services:
       - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD:-rootpassword}
       - JWT_SECRET=${JWT_SECRET}
       - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-flash-lite-latest}
       - GEMINI_TIMEOUT_SECONDS=${GEMINI_TIMEOUT_SECONDS:-5}
       # Correo (RF-08). Si MAIL_HOST queda vacio, los correos se escriben en el log del backend.
       - MAIL_HOST=${MAIL_HOST:-}
